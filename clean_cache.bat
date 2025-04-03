@@ -45,6 +45,6 @@ echo Finalizing...
 call :progress 100
 
 echo.
-echo ✅ Cache cleanup completed!
+echo Cache cleanup completed!
 timeout /t 2 >nul
 exit

@@ -3,7 +3,7 @@ A lightweight, automated, and visually enhanced batch script to clean up tempora
 This version includes a **dynamic progress bar animation** and automatically closes the terminal after completion.
 
 ## 🌟 Features
-- ✅ Supports Windows 10 / 11
+- ✅ Supports Windows XP, Vita, 7, 8, 10, 11
 - ✅ Automatically cleans:
   - System Temp files
   - User Temp files
